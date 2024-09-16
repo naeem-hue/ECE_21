@@ -36,6 +36,3 @@ This repository contains all the assignments, lab reports, and other necessary a
 
 <p align="center"><em>Congratulations, task complete.</em></p>
 
-# Demo Video:
-https://drive.google.com/file/d/135foORVAXyPzm9Pic2T9mYgb4n6rgJwD/view?usp=drivesdk
-
